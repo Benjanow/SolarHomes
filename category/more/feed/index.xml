@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>More: &#8211; Solar Homes</title>
+	<atom:link href="https://benjanow.github.io/SolarHomes/category/more/feed/" rel="self" type="application/rss+xml" />
+	<link>https://benjanow.github.io/SolarHomes/</link>
+	<description>The better way.</description>
+	<lastBuildDate>Sat, 07 Apr 2018 17:31:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.3</generator>
+	<item>
+		<title>Tony Clark&#8217;s System</title>
+		<link>https://benjanow.github.io/SolarHomes/tony-clarks-system/</link>
+		<pubDate>Mon, 13 Nov 2017 17:12:58 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[More:]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/?page_id=118</guid>
+		<description><![CDATA[<p class="excerpt"><span itemprop="description">Our Solar PV System &#8211; Tony Clark Describes his Extensive Solar System Written by Tony Clark The Start In 2000, my wife and I sold our home and purchased another, in a different suburb.  At our new home, my wife wanted to install a swimming&#8230;</span></p><p class="more-link-p btn-align-left"><a class="blue zoom-btn" href="https://benjanow.github.io/SolarHomes/tony-clarks-system/">Read More</a></p>]]></description>
+				<content:encoded><![CDATA[<span itemprop="description"><h1 class="contentheading"><a class="contentpagetitle" href="https://web.archive.org/web/20160410165744/https://benjanow.github.io/SolarHomes/our-solar-pv-system"> Our Solar PV System &#8211; Tony Clark Describes his Extensive Solar System</a></h1>
+<p class="articleinfo"><span class="createdby"> Written by Tony Clark </span></p>
+<h2>The Start</h2>
+<p>In 2000, my wife and I sold our home and purchased another, in a different suburb.  At our new home, my wife wanted to install a swimming pool; I wanted to install Solar panels and a Grid Connect Inverter.  We both ended up having what we wanted, although I ended up being the one to clean the pool.</p>
+<p>We installed a 1500Wp system on the roof of the garage, which comprised 15 100Wp Shell solar panels and a Selectronic SEAG 1500 inverter.  The solar panels were installed on a frame, which allowed them to be elevated in winter, and lowered for summer, to maximize power generation during those seasons.</p>
+<p>This was very reliable, even surviving a thunderstorm, which destroyed the power meter at our house.</p>
+<p>&nbsp;</p>
+<h2>Relocation</h2>
+<p>In 2006, we changed homes again, buying a “solar oriented” rammed earth home.  An environmental engineer built this house in 1984.</p>
+<p>The buyers of our previous home did not want to pay extra for the solar power system, so I removed it an reinstalled the solar panels at our new home.</p>
+<p>I retained the ability to elevate and lower the panels to maximize seasonal power generation.</p>
+<p>&nbsp;</p>
+<h2>Stand alone Solar Power</h2>
+<p>I was unable to get the Grid connect inverter working satisfactorily, and we were on a “spur line” which had no alternate route for the power feed, so I decided to build a stand alone power system, using second hand flooded batteries, rated at 600AH over 10 hours, from a telecommunications site.  These batteries were already 15 years old, but should still have some life left in them for this application.</p>
+<p>I installed the batteries in 2 rows in our garage (a double width garage) but with the batteries in place, there was only room for one vehicle (my wife’s).</p>
+<p>I purchased an Outback MX-60 MPPT battery charger to manage the power from the solar panels and charge the 48V battery bank.  This allowed me to retain the previous configuration of the solar array as 3 series panel strings (5 in parallel).  The Maximum Power point for this array was approximately 90V (dependant on solar insolation, temperature and time of day).</p>
+<p>I also purchased a Selectronics SX 42 inverter and current shunts to allow its “state of charge” function to provide this information to us.  This allowed us to draw up to 4.2KW for up to 30 minutes before it would de-rate to 3.6KW output.  When my wife used the Clothes drier and the electric kettle (2.5KW) at the same time, it shut down due to overload. My wife has adjusted to using the kettle on the gas cooker for heating water.</p>
+<p><a href="https://web.archive.org/web/20160410165744/https://benjanow.github.io/SolarHomes/images/photos/Stand-alone-array-elevated-for-winter.jpg" target="_blank" rel="noopener"><img src="https://web.archive.org/web/20160410165744im_/https://benjanow.github.io/SolarHomes/images/photos/Stand-alone-array-elevated-for-winter-440x330.jpg" alt="Stand alone array elevated for winter" /></a>  <a href="https://web.archive.org/web/20160410165744/https://benjanow.github.io/SolarHomes/images/photos/Part-of-Stand-alone-array.jpg" target="_blank" rel="noopener"><img src="https://web.archive.org/web/20160410165744im_/https://benjanow.github.io/SolarHomes/images/photos/Part-of-Stand-alone-array-440x330.jpg" alt="Part of Stand-alone array" /></a></p>
+<p>&nbsp;</p>
+<h2>Non-solar powered loads</h2>
+<p>As our home has 3-phase power connected and we use 3 phase power for water pumps for drinking water and for garden water (from a bore hole), we decided to retain the mains for these pumps, the oven, air conditioner and for the solar hot water booster element. As we have a wood fuelled heating fire fitted with a “wet back” to provide water heating during winter, electric boosting is not used at all.</p>
+<p>I devised a switching system, where all phases were connected to the AC Distribution in our house when the switch is set to “Mains Power”, but selected loads are connected to the inverter source, when the switch is set to “Solar Inverter”.  An “Off” position is used between these, to prevent connection of the mains to the inverter output (this would destroy the inverter as it is not rated for mains connection).</p>
+<p>Our neighbour is a licensed electrical contractor who specializes in industrial electrical contracting, but he was interested in my project, so he offered to wire up the inverter and switches.</p>
+<p>The 1.5KWp solar array was not able to supply our daily power usage, so I have added solar panels in 2 stages over 3 years, to bring the total stand alone capacity to 3.6KWp.  This easily provides between 10 and 14 KWH to our battery bank on clear days, even in winter.</p>
+<p>&nbsp;</p>
+<h2>Performance</h2>
+<p>On clear days, at any time of year, this system provides more than enough power for our usage. Where a cloudy day is followed by clear days, the battery capacity is recovered within 2 or 3 days of fine weather.  Where there are 2 or 3 cloudy days in a row, we switch to Mains during the “Off Peak” periods of the Time of Use metering scheme, to minimise the cost of power used.</p>
+<p>If there are 4 or more cloudy days following each other, we switch to “Solar Inverter”, only for “Peak” periods, of the Time of Use metering scheme. In this way we can avoid the high cost power periods, even when the solar power is not generating enough power for our needs.</p>
+<p>Where mains power is not available due to network faults and t clouds prevent solar charging of the battery, we can connect a single-phase generator and switch to that in place of the Solar Inverter.</p>
+<p>&nbsp;</p>
+<h2>Battery Capacity</h2>
+<p>The battery voltage depends on the number of 2V cells in series, which make up the battery. 24 cells in series make a nominal 48V battery (operating voltage between 47V under load at less than 50% charged and 60V when nearly fully charged (absorb mode of MX-60).  By adding one more cell, the nominal battery voltage changed to between 49V and 62.5V, which is still within specification for the inverter we have.  This provides and additional 4% battery capacity.</p>
+<p>I have sourced more of the used telecommunications batteries and built a 2-tier stand to support them in the same floor space as 24 cells occupy.  When complete, the additional batteries will provide a total of 56 KWH of energy storage.  I try to minimise battery discharges greater than 50% of battery capacity, so at 50% discharge this would provide about 4 days of supply to our home (even more if we further limit usage).</p>
+<p>A few of these cells have failed in the 4 years we have had the first bank in use.  Fortunately I was able to remove one cell, (bringing the battery back to 48V nominal) until a replacement cell was obtained.  Luckily, we have not had 2 cells fail concurrently and my supplier of used cells has been able to provide them at short notice.  His supply is becoming harder to obtain as most telecommunications providers are now using Sealed Lead Acid batteries in preference to flooded cells.  I plan to stockpile a few flooded cells, setting them up as a 12V battery in my workshop, charged by a small solar array and MPPT charger.  Faulty cells in the main battery will then be more readily replaced and I will have a much longer time period to source replacements.</p>
+<p><a href="https://web.archive.org/web/20160410165744/https://benjanow.github.io/SolarHomes/images/photos/Battery-terminal-issues.jpg" target="_blank" rel="noopener"><img src="https://web.archive.org/web/20160410165744im_/https://benjanow.github.io/SolarHomes/images/photos/Battery-terminal-issues-440x330.jpg" alt="Battery terminal issues" /></a>  <a href="https://web.archive.org/web/20160410165744/https://benjanow.github.io/SolarHomes/images/photos/Battery-fusing-and-isolation-switch.jpg" target="_blank" rel="noopener"><img src="https://web.archive.org/web/20160410165744im_/https://benjanow.github.io/SolarHomes/images/photos/Battery-fusing-and-isolation-switch-248x330.jpg" alt="Battery fusing and isolation switch" /></a></p>
+<p>&nbsp;</p>
+<h2>Battery Replacement Plan</h2>
+<p>As most of our power is sourced from the Solar System, I have decided to set aside the amount that we would otherwise pay for power, as a reserve for eventual battery replacement.  When my source of flooded cells is no longer available, I will purchase new replacement cells (perhaps 5 at a time) to upgrade the battery banks.  These cells cost over Au$700 each, but we would spend over $2000 annually for mains power, without the solar system, so we should easily be able to replace up to 5 cells each 2 years. 10 years for one whole battery bank. 10 years battery life is achievable and with the second battery bank, longer battery life is possible (discharges below 50% capacity occur less often would result in longer battery life).</p>
+<p><a href="https://web.archive.org/web/20160410165744/https://benjanow.github.io/SolarHomes/images/photos/Battery-lifting-trolley.jpg" target="_blank" rel="noopener"><img src="https://web.archive.org/web/20160410165744im_/https://benjanow.github.io/SolarHomes/images/photos/Battery-lifting-trolley-440x330.jpg" alt="Battery lifting trolley" /></a></p>
+<p>&nbsp;</p>
+<h2><strong>Our Grid Connect Solar System</strong></h2>
+<p>Three years ago the Australian government was offering significant rebates for the installation of grid connected solar power systems and the Western Australian Government was offering a Feed–in Tariff of 40 cents per KW fed to the Grid.  We signed up for a 1KWp system and paid only $1500 for it, complete, installed and commissioned.  This now offsets our mains power usage for pumps, oven and air conditioning.  Our power bill is now between Au$50 in credit or debt, depending on cloud cover during the 2-month billing period.</p>
+<p>When the Feed-in Tariff expires (politicians decide to stop it), I can connect the Grid connect solar panels to the Stand Alone system.  I believe that we will then be able to use the oven and air conditioner on the Stand Alone power system. I would still need to have Mains power for the pumps, but the main heavy loads would be running from our solar power system.</p>
+<p><a href="https://web.archive.org/web/20160410165744/https://benjanow.github.io/SolarHomes/images/photos/Grid-connect-array-&amp;-solar-pergola.jpg" target="_blank" rel="noopener"><img src="https://web.archive.org/web/20160410165744im_/https://benjanow.github.io/SolarHomes/images/photos/Grid-connect-array-&amp;-solar-pergola-440x330.jpg" alt="Grid connect array &amp; solar pergola" /></a>  <a href="https://web.archive.org/web/20160410165744/https://benjanow.github.io/SolarHomes/images/photos/Solar-pergola-in-late-spring.jpg" target="_blank" rel="noopener"><img src="https://web.archive.org/web/20160410165744im_/https://benjanow.github.io/SolarHomes/images/photos/Solar-pergola-in-late-spring-440x330.jpg" alt="Solar pergola in late spring" /></a></p>
+<p>&nbsp;</p>
+<span>]]></content:encoded>
+			</item>
+		<item>
+		<title>Solar Pool Heating</title>
+		<link>https://benjanow.github.io/SolarHomes/solar-pool-heating/</link>
+		<pubDate>Mon, 13 Nov 2017 17:11:52 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[More:]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/?page_id=114</guid>
+		<description><![CDATA[<p class="excerpt"><span itemprop="description">Heat Your Pool with Solar Power Solar water heating has been around for some time, it was practised and accepted around the world in countries such as China, Australia, Greece, Turkey, Israel and Japan. It has until recently been too expensive for the average South&#8230;</span></p><p class="more-link-p btn-align-left"><a class="blue zoom-btn" href="https://benjanow.github.io/SolarHomes/solar-pool-heating/">Read More</a></p>]]></description>
+				<content:encoded><![CDATA[<span itemprop="description"><h1 class="contentheading"><a class="contentpagetitle" href="https://web.archive.org/web/20160410195713/https://benjanow.github.io/SolarHomes/solar-pool-heating"> Heat Your Pool with Solar Power</a></h1>
+<p>Solar water heating has been around for some time, it was practised and accepted around the world in countries such as China, Australia, Greece, Turkey, Israel and Japan. It has until recently been too expensive for the average South African consumer – but not anymore.</p>
+<p>More and more South African families are switching over to solar water heating as a viable alternative to the traditional warm water cylinder. Solar water heaters are cost and energy effective, and will deliver an optimum amount of hot water throughout most of the year.</p>
+<p><img src="https://web.archive.org/web/20160410195713im_/https://benjanow.github.io/SolarHomes/images/solar-pool-heating-panels.jpg" alt="Solar panels for pool heating" />Although solar water heating has been successfully introduced into South Africa, it is still not being optimally utilised. When you say “<a href="https://web.archive.org/web/20160410195713/https://benjanow.github.io/SolarHomes/solar-thermal-hot-water" target="_blank" rel="noopener">solar water heating</a>”, most people think hot water for shower and bathing &#8211; but what else can we use this for? Heating your swimming pool for one! <a href="https://web.archive.org/web/20160410195713/http://www.builditsolar.com/Projects/PoolHeating/pool_heating.htm" target="_blank" rel="noopener">Solar pool heating</a> is easier than you think and a great application for solar power.</p>
+<p>The systems available are simple and very user friendly &#8211; they are also relatively inexpensive. Most pools use simple, low cost, un-glazed plastic solar collectors.  Un-glazed, meaning not covered in a glass casing or other glazed product. Your pool itself becomes the thermal storage for your system, you actually utilize the same pump you use to filter your pool water to circulate water through your solar collectors.</p>
+<p>The solar collectors works on very simple principles and come in a variety of shapes, sizes and materials. It mainly consists of most of the following :</p>
+<ul>
+<li>The Solar Collector</li>
+<li>The Filter</li>
+<li>The Pump</li>
+<li>The Flow Control Valve</li>
+</ul>
+<p>Each component has it specific task, The Solar Collector does exactly what its name suggests &#8211; it is a devise through which the pool water is circulated to be heated by the sun. The Filter &#8211; like in your pool &#8211; removes debris from the water before it is pumped through the collectors. The Pump circulates the water in the pool and through the filter and then trough the collectors, and finally back into the pool to start the whole process over again. The Flow Control Valve is an essential component to the collector as it is responsible for the flow of water through the solar collector, the flow control valve, is either a manual or automatic device &#8211; depending on what system you have.</p>
+<p>So to sum up, the water is pumped through the filter, and then through the solar collector(s), where it is heated and returned back to the pool. A little known fact is that in hotter climates your solar collector can be used to cool your pool water. It does that by circulating the water through the Solar Collectors at night.</p>
+<p><img src="https://web.archive.org/web/20160410195713im_/https://benjanow.github.io/SolarHomes/images/diy-solar-panels.jpg" alt="DIY Solar panels for heating your pool" />Solar pool collectors are made of a variety of materials. The type you need will be determined by the climate where you live and how you intend to use your Solar Pool Collector. If you plan to use your pool in temperatures above freezing &#8211; then you most likely only need an un-glazed collector system. Un-glazed collectors are, generally made out of heavy duty rubber or <a href="https://web.archive.org/web/20160410195713/http://en.wikipedia.org/wiki/Ultraviolet" target="_blank" rel="noopener">UV</a> treated plastic. The plastic is treated with this UV resistant coating to help prolong the life of the heating panels in the collector. Un-glazed Collectors are usually inexpensive due to their simple design and cost effective parts. Un-glazed systems may even be more cost effective than glazed collector systems. The reason being that the Glazed collectors are generally made with copper tubing or aluminium plate. These metal components are then placed in a tempered glass covering &#8211; and this is where the real cost come in. Glazed Collectors, do however capture solar heat better in colder climates. They can basically be used all year round, in any climate.</p>
+<p>You can quite easily build a solar pool heater yourself. Many South Africans are doing this because it is so cheap and easy to do. If you feel like building your own pool heater read this guide on how to build a <a href="https://web.archive.org/web/20160410195713/http://www.solar-for-energy.com/homemade-solar-pool-heater.html" target="_blank" rel="noopener">home-made solar pool heater</a>.</p>
+<p>Installing a solar pool heater pays for itself within its first year to year and a half. They do typically last longer than gas and heated pump pool heaters. If installed properly by a professional, and with regular maintenance, your Solar Pool Heating System should run smoothly and effortlessly for the next 10 &#8211; 20 years.</p>
+<p>Other articles you might be interested in:</p>
+<p><a class="level1 item2" href="https://web.archive.org/web/20160410195713/https://benjanow.github.io/SolarHomes/solar-power-in-south-africa">Solar Power in SA</a></p>
+<p><a class="level1 item4" href="https://web.archive.org/web/20160410195713/https://benjanow.github.io/SolarHomes/solar-geyser-faq">Solar Geyser Matters</a></p>
+<p><a class="level1 item7 last" href="https://web.archive.org/web/20160410195713/https://benjanow.github.io/SolarHomes/the-secret-of-affordable-solar-power-systems">Cheap, Affordable Solar Power</a></p>
+<span>]]></content:encoded>
+			</item>
+		<item>
+		<title>Solar Geysers</title>
+		<link>https://benjanow.github.io/SolarHomes/solar-geysers-2/</link>
+		<pubDate>Mon, 13 Nov 2017 17:11:08 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[More:]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/?page_id=112</guid>
+		<description><![CDATA[<p class="excerpt"><span itemprop="description">Solar Geyser FAQ How soon can I pay back my Green Power solar water heating system through my electricity savings? Every client is unique with different energy consumption habits and water usage. Eskom claims that your water geyser consumes about 40 to 60% of your&#8230;</span></p><p class="more-link-p btn-align-left"><a class="blue zoom-btn" href="https://benjanow.github.io/SolarHomes/solar-geysers-2/">Read More</a></p>]]></description>
+				<content:encoded><![CDATA[<span itemprop="description"><h1 class="contentheading"><a class="contentpagetitle" href="https://web.archive.org/web/20160410161146/https://benjanow.github.io/SolarHomes/solar-geyser-faq"> Solar Geyser FAQ</a></h1>
+<div>
+<h3 id="item1">How soon can I pay back my Green Power solar water heating system through my electricity savings?</h3>
+<p>Every client is unique with different energy consumption habits and water usage. Eskom claims that your water geyser consumes about 40 to 60% of your monthly energy bill.</p>
+<p>From our experience, if your monthly electricity bill is R600 per month and electricity tariffs continue to rise by 15% per annum, you should pay back a 150L system in less than 5 years through accumulated savings.</p>
+<h3 id="item2">What happens if the weather is very bad?</h3>
+<p>Vacuum tube solar water heating is the leader in solar heating technology, operating very effectively even in cloudy and overcast conditions. Vacuum tubes use the light radiation from the sun. For e.g. if you go to the beach and it&#8217;s overcast you still burn, the same principle applies with the vacuum tube. If the weather is constantly “bad” there are electric backup elements installed in your geyser for those rare “weeks of continuous rain and poor weather”.</p>
+<p>&nbsp;</p>
+<h3 id="item3">How hot does the water get in a solar geyser?</h3>
+<p>This is dependent on the amount of light UVA/UVB radiation but the water can reach temperatures of up to 97o C in summer &amp; 70o C in winter.</p>
+<h3 id="item4">Can I retrofit a Green Power Solar Water heating solution to my existing geyser?</h3>
+<p>Yes. There are various valves and fittings on the market to retrofit your existing geyser.</p>
+<h3 id="item5">What happens when the power goes off?</h3>
+<p>Nothing. The water gets heated in the panel and as it&#8217;s heated, the water pressure increases and pushes the hot water through to the geyser. Additional expansion from the hot water will be relieved by the pressure release valve (PRV). Green Power has researched other alternatives like battery back-up systems and also small PV panels to run the pump and controller. Both options are available on request.</p>
+<h3 id="item6">Why do I need a pump and controller?</h3>
+<p>The controller is there for safety and efficiency and has built in safety features. For example if the water in your geyser reaches 90 degrees it shuts down the pump and stops more water from being unnecessarily heated. Once the geyser temperature drops, the panel and pump will run again and the water will be heated again.</p>
+<p>In the case of freezing or if the panels&#8217; temperature drops below 2 degrees the system will intelligently pump water through the panel to ensure the pipes don&#8217;t freeze up.</p>
+<p>Efficiency- the Green Power system works on a temperature differential i.e. if the panel is hotter than the geyser it tells the pump to kick over a cycle of water and vice versa. The water then heats up and returns to the geyser, and the process starts all over again. The pump does not run continuously but rather heats the water up in cycles, making the system run not only efficiently, but cleverly too.</p>
+<h3 id="item7">How does a vacuum tube heat the water?</h3>
+<p>A vacuum in its very basic form is merely a natural insulator, providing for a heat-loss factor of merely 7%. In other words 93% of the radiation that enters the glass tube is retained and transferred to the water. The vacuum (similar to our ozone layer) assists in prevention of radiation and convection. Another example is a flask that you put your coffee in to keep warm. The vacuum tubes use the same principle except they keep the sun&#8217;s radiation in.</p>
+<h3 id="item8">How do you install a solar geyser?</h3>
+<p>Solar elements can be installed on the face of any North-facing wall or preferably on the roof. Water is pumped from the ordinary 3-port internal geyser, in circulation, over the solar element and returned to the internal geyser. Tiled or corrugated roofs work fine, while flat concrete roofs are ideal. The system is mounted onto the roof with each leg bolted to the beams within. Water proofing by means of flashing and sealants is accomplished relatively easily, because the panels are relatively light.</p>
+<h3 id="item9">Do the glass tubes break very easily?</h3>
+<p>According to South African Bureau of Standards (SABS) testing, the vacuum tubes resist hail up to 35mm in diameter. This is the largest hailstone that the SABS tests with! They might break as often as the windows in your home i.e. not very often! Should a vacuum tube break, the system continues to operate without interruption. An optional polycarbonate cover can be installed in heavy hail regions or where baboons are in the area. Replacement of a vacuum tube costs roughly R 220.00.</p>
+<h3 id="item10">Can the solar geysers handle urban water pressure?</h3>
+<p>Yes! Up to 400 kPa (4 Bar).</p>
+<h3 id="item11">What is a 3-port geyser?</h3>
+<p>Most geysers currently manufactured by ordinary geyser manufacturers have three ports. One port is taken up by the temperature/pressure (T/P) safety valve and cannot be used thereafter. Solar water heating systems require the geyser to have one additional water outlet to allow them to be easily coupled together. This makes a 4-port geyser. The Cobra geyser solves the problem by way of a Banjo type t/p safety valve which also acts as an outlet.</p>
+<h3 id="item12">Why is vacuum tube technology more suited to moderate climes like the coast as opposed to flat plate technology?</h3>
+<p>Flat plate collectors are susceptible to “wind Chill” which affects their efficiency. In addition to this, flat plate collectors are only efficient at solar noon when the sun is perpendicular to the collector. In contrast vacuum tubes are round, and all panels are installed with a reflector which enables them to track the sun, focusing all light on to the copper tube within the vacuum tube.</p>
+<p>As well as this, vacuum tube technology is much less expensive in terms of maintenance and repair.</p>
+<h3 id="item13">What is Eskom&#8217;s involvement in the solar water heating programme?</h3>
+<p>In order to reduce the growing demand for electricity, Eskom is embarking on energy efficiency and alternative energy programmes that promote energy savings on a large scale in order to mitigate system constraints. Eskom is working towards a goal to meet government&#8217;s target of 10 000 gigawatt hours of renewable energy generation by 2013.</p>
+<h3 id="item14">How does the programme work?</h3>
+<p>The programme is structured around a rebate which reduces the selling price of a SABS approved solar water heating system. The reduction in price is based primarily on the performance of the solar water heater and its associated electricity saving potential. You receive a rebate directly from Deloittes, the facilitating auditors of the programme.</p>
+<p>Only registered products, complying with the following criteria, qualify for the rebate:</p>
+<ul type="disc">
+<li>It must be a high-pressure system with pressure higher than 100kPa.</li>
+<li>The system must have a timer to optimise energy savings and regulate everyday usage. Alternatively, a load management device, i.e. a geyser buddy or ripple relay, to control the usage in crisis situations must be installed.</li>
+<li>The system must be appropriate for the household and area in which it is installed, in terms of size, frost protection and water quality compatibility.</li>
+<li>It must have a comprehensive guarantee of at least five years.</li>
+<li>The system must have passed the South African Bureau of Standards (SABS) tests, and comply with the South African National Standards (SANS) for thermal and mechanical performance and safety.</li>
+<li>The supplier of the system must be registered with SESSA (Sustainable Energy Society of South Africa) solar water heating division.</li>
+<li>The system must be installed by a registered installer and the customer will only be able to claim the rebate once facilitating auditors receive a final invoice from their supplier.</li>
+</ul>
+<h3 id="item15">How do I ensure the quality of the system I have purchased?</h3>
+<p>Purchasing a system that is registered on the Eskom programme ensures that the system and the supplier have been checked and audited, not only safeguarding you as a consumer but also giving you greater assurance of the system&#8217;s quality. Buying an Eskom registered system means you qualify for a rebate, making your purchase good value for money.</p>
+<h3>end faq</h3>
+</div>
+<span>]]></content:encoded>
+			</item>
+		<item>
+		<title>Solar Facts</title>
+		<link>https://benjanow.github.io/SolarHomes/solar-power-facts-2/</link>
+		<pubDate>Mon, 13 Nov 2017 17:10:13 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[More:]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/?page_id=110</guid>
+		<description><![CDATA[<p class="excerpt"><span itemprop="description">All About Solar Power &#8211; Information and Facts Contents Solar Power In General How Do Photovoltaic Cells Work Advantages of Solar Power Disadvantages of Solar Power Solar Equipment For The Home a. Types Of Solar Panels Available b. Solar Regulators c. Solar Inverters d. Batteries&#8230;</span></p><p class="more-link-p btn-align-left"><a class="blue zoom-btn" href="https://benjanow.github.io/SolarHomes/solar-power-facts-2/">Read More</a></p>]]></description>
+				<content:encoded><![CDATA[<span itemprop="description"><h1 class="contentheading"><a class="contentpagetitle" href="https://web.archive.org/web/20160410140415/https://benjanow.github.io/SolarHomes/all-about-solar-power"> All About Solar Power &#8211; Information and Facts</a></h1>
+<h2>Contents</h2>
+<ol>
+<li>Solar Power In General</li>
+<li>How Do Photovoltaic Cells Work</li>
+<li>Advantages of Solar Power</li>
+<li>Disadvantages of Solar Power</li>
+<li>Solar Equipment For The Home<br />
+a. Types Of Solar Panels Available<br />
+b. Solar Regulators<br />
+c. Solar Inverters<br />
+d. Batteries</li>
+<li>Cost of solar panels</li>
+<li>How Many Solar Panels Do I Need To Power My Home?</li>
+<li>Jobs In The Solar Industry</li>
+<li>DIY Solar Panels</li>
+<li>Why Has Solar Energy Not Yet Taken Off In South Africa?</li>
+<li>Future Developments</li>
+<li>Terminology</li>
+</ol>
+<h2>Solar Power In General</h2>
+<p>To reduce global warming we need to discontinue our reliance on <a href="https://web.archive.org/web/20160410140415/http://en.wikipedia.org/wiki/Fossil_fuel" target="_blank" rel="noopener">fossil fuels</a> for electricity and power, and one way of doing this is by installing solar panels because they are eco friendly &#8211; they don’t emit carbon dioxide into the atmosphere.</p>
+<p>The use of solar power is growing daily and will become even more important in the future. More and more home owners are installing solar panels to become self-sufficient with regards to electricity and to reduce their monthly electricity bills. Solar panels enable one to power one’s house cleanly and efficiently, without relying on fossil fuels.</p>
+<p>The <a href="https://web.archive.org/web/20160410140415/https://benjanow.github.io/SolarHomes/solar-power-in-south-africa">South African climate</a> is ideally suited to the use of solar power, e.g. the Northern Cape is one of the two best places in the world to generate CSP because it generates close to 3,000 kWh of electricity per square meter.</p>
+<p>Experts estimate that every year one square kilometre of desert receives the solar energy equivalent of 1.5 million barrels of oil.</p>
+<p>Growth of the Solar Industry will be given a boost as new regulations are enforced to build more energy efficient homes.</p>
+<h2>How Do Photovoltaic Cells Work</h2>
+<p>There is a common misconception that <a href="https://web.archive.org/web/20160410140415/http://en.wikipedia.org/wiki/Photovoltaics" target="_blank" rel="noopener">photovoltaic cells</a> use heat from the sun to produce electricity, whereas it is actually the light from the sun that is converted into electric energy.</p>
+<p>Electrical power is generated by the conversion of solar radiation into direct current electricity via <a href="https://web.archive.org/web/20160410140415/http://en.wikipedia.org/wiki/Semiconductor" target="_blank" rel="noopener">semiconductors</a>. A photovoltaic cell is basically a battery charger that is powered by the sun.</p>
+<p>Too much heat, as experienced in the South African summer, can actually reduce the efficiency of photovoltaic cells. In extremely hot desserts, the loss in efficiency can be up to 25%. Luckily, in South Africa, we do not experience such a drastic reduction in efficiency.</p>
+<h2>Advantages of Solar Power</h2>
+<ol>
+<li>
+<h4>Broad range of uses</h4>
+</li>
+<li>
+<h4>Dependable power source</h4>
+<p>Electricity is generated and stored whenever the sun shines. While your electricity usage is lower than the stored energy you are independent of the power-grid and power stations – no more power cuts.</li>
+<li>
+<h4>Free electricity after installation</h4>
+<p>Solar panels will continue to produce electricity for up-to 30 years. If you live in a country with lots of sunlight and high electricity charges, like South Africa, it makes economic sense to go solar because the payback time may be better than leaving your money in a low-interest bearing account – it’s a profitable investment.</li>
+<li>
+<h4>Increases the resell value of your home</h4>
+<p>There are many property buyers out there that value the eco-friendly and cost reducing benefits of solar power.</li>
+<li>
+<h4>Long operating life with a 20 year guarantee being the industry norm</h4>
+</li>
+<li>
+<h4>Maintenance costs are lower than <a href="https://web.archive.org/web/20160410140415/http://en.wikipedia.org/wiki/Wind_turbine" target="_blank" rel="noopener">wind-turbines</a> and <a href="https://web.archive.org/web/20160410140415/http://en.wikipedia.org/wiki/Electric_generator" target="_blank" rel="noopener">electrical generators</a></h4>
+<p>Solar panels are maintenance free after initial installation because there are no moving parts to wear out. In the case of off-grid operation, it is only the batteries that have to be maintained. Regular dusting is all that a PV panel needs to keep it operating smoothly for up to thirty years.</li>
+<li>
+<h4>Minimal impact on the environment</h4>
+</li>
+<li>
+<h4>No Expensive Infrastructure</h4>
+<p>The electricity is being produced just where it is needed, so no expensive infrastructure is needed to distribute it to users. This is a huge advantage to small villages or farms that are far away from power stations or where power delivery is difficult because of mountainous terrain.</li>
+<li>
+<h4>No waste product</h4>
+<p>Eskom produces massive amounts of <a href="https://web.archive.org/web/20160410140415/http://www.fuelfromthesun.com/pollution_%26_stats.htm" target="_blank" rel="noopener">pollution</a> because of coal burning, so as solar installations increase, it can only be good for our environment.</li>
+<li>
+<h4>Portable</h4>
+</li>
+<li>
+<h4>Renewable Resource that will never run out</h4>
+<p>South Africa has over 2,500 hours of sunshine every year (more than twice that of Europe) and is therefore the perfect climate for solar panels.</li>
+<li>
+<h4>Silent, unlike wind turbines or electricity plants</h4>
+</li>
+<li>
+<h4>You feel good because you are reducing your carbon footprint</h4>
+<p>Because solar panels are eco-friendly, by installing them you will contribute to a reduction in the burning of fossil fuels, resulting in less carbon dioxide in the atmosphere. Because the electricity is being produced just where it is needed, coal transportation costs are reduced.</li>
+</ol>
+<h2>Disadvantages of Solar Power</h2>
+<ol>
+<li>
+<h4>Aesthetics</h4>
+<p>Solar panels can be unsightly and if you wish to be off the grid, they may need to cover the whole roof. However improved technology has resulted in smaller solar panels that blend in better.</li>
+<li>
+<h4>Climate</h4>
+<p>Wet climates will corrode exposed parts more quickly and hail can damage the solar panels, so this must be included in your cost analysis. Cloudy areas may not get enough sun exposure, although Germany with the use of photovoltaics has found that this is not necessarily a problem.</li>
+<li>
+<h4>Cost has limited the use of solar panels</h4>
+<p>However, the price of coal energy is increasing and the price of solar energy is decreasing, so in a few years cost will be a non-issue.</li>
+<li>
+<h4>Disposal of defunct solar panels and batteries</h4>
+<p>When solar panels and batteries are at the end of their useful life, proper disposal is important. Either the storage batteries or the panels contain the following toxic materials: Lead, Sulphuric acid and Cadmium telluride. The batteries are 98% recyclable and technology promises advances in the development of more eco-friendly photovoltaic cell production.</li>
+<li>
+<h4>Large surface area required to produce sufficient power</h4>
+</li>
+<li>
+<h4>Low output on cloudy days and no electricity generation at night</h4>
+</li>
+<li>
+<h4>Storage Space</h4>
+<p>If you are off the grid, batteries can take up a significant amount of space.</li>
+<li>
+<h4>Maintenance</h4>
+<p>When your solar energy fails, you can’t just call the power company. If you don’t have an experienced photovoltaic energy technician nearby or if you are unwilling to be a handyman, maintenance is an issue. On the positive side, solar power is very dependable and usually requires little work.</li>
+<li>
+<h4>Moving house too soon to recover your outlay will cost you more if the new house has no solar panels</h4>
+</li>
+</ol>
+<p>In summary, most of the solar panel disadvantages are decreasing with the advances in technology.</p>
+<h2>Solar Equipment For The Home</h2>
+<p>Solar panels charge the battery and the charge regulator prevents over-charging of the battery. The battery provides DC voltage to the inverter, and the inverter converts the DC voltage to normal AC voltage.</p>
+<ol>
+<li>
+<h3>Solar Panels</h3>
+<ol>
+<li>
+<h4>Mono-Crystalline Solar Panels</h4>
+<p>Because this type uses old technology it is more expensive to make, but has the highest efficiency of 12-17%.</p>
+<p>This type of solar panel is made from wine-bottle sized single crystals of ultra-pure silicon that is cut up into slices, which are then converted to square solar cells. These solar cells are laid side-by-side in the solar panel.</li>
+<li>
+<h4>Poly-Crystalline or Multi-Crystalline Solar Panels</h4>
+<p>These are not as efficient (11-14%) as Mono Crystalline, but as they are caste into larger squares the output of the completed solar panel is about the same as a completed Poly Crystalline solar panel because there is less wasted space between the cells.</li>
+<li>
+<h4>String Ribbon Solar Panels</h4>
+<p>This type of solar panel contains a ribbon of silicon that does not have to be cut as in the previous two examples. Degradation in performance (12-13%) of this newer type is similar to poly-crystalline and mono-crystalline solar panels, but it consumes less energy in the manufacturing process.</p>
+<p>Because of the lower efficiency these panels are about 30% larger.</li>
+<li>
+<h4>Thin-Film Solar Panels (also called Amorphous)</h4>
+<p>The current thin film manufacturing process is fairly new, so its long-term performance can only be estimated. The manufacture of these panels consumes less energy than the mono-crystalline and poly-crystalline solar panels.</p>
+<p>These panels are about twice the size because their efficiency is only 8-10%. In addition you need a strong roof because they are much heavier.</p>
+<p>There are many ways to manufacture this thin film using, among other, the following elements by themselves or in combination: cadmium telluride, gallium indium arsenide, silicon vapour.</li>
+</ol>
+</li>
+<li>
+<div>
+<h3>Solar Regulators</h3>
+<p>Solar Regulators AKA Solar Charge Controllers protect the batteries from being overcharged and prevent too much energy being drawn from the batteries. They also prevent reverse current from damaging the solar panels.</p>
+</div>
+</li>
+<li>
+<div>
+<h3>Solar Inverters</h3>
+<p>Solar inverters change Direct Current (DC) to Alternating Current (AC). Stand-Alone Solar inverters can be used to convert DC current of the batteries to AC current to run your electrical appliances. There are pure sine wave solar inverters and square wave solar inverters. It is a good idea to ensure that the solar inverter you intend installing has an SABS certificate.</p>
+<p>Inverters boost the direct current (DC) 10 to 20 times by switching the power to create pulses of alternating current (AC).</p>
+</div>
+</li>
+<li>
+<div>
+<h3>Batteries</h3>
+<p>Batteries suitable for solar power systems are called deep cycle batteries. They are different to car batteries, in that they are capable of surviving prolonged, repeated and deep discharges which are typical in renewable energy systems that are &#8220;off grid&#8221;.</p>
+</div>
+</li>
+</ol>
+<h2>Cost of solar panels</h2>
+<p>Like most things in life you get what you pay for, but you can find bargains &#8211; just make sure that you are comparing like with like in the case of cost per watt of electricity generated, quality, service and warranty period.</p>
+<p>Thin-film solar panels can be cheaper, but will cover twice the area of mono-crystalline and poly-crystalline solar panels. As they a new technology, it is difficult to predict how much they will degrade over time, so look for a long warranty.</p>
+<p>The main drawback to solar energy has been its cost, which is about R22 per watt. In contrast, coal-fired electricity costs about R10 per watt.<br />
+South Africa Professor Vivian Alberts, a physicist at the University of Johannesburg, has developed solar panels that are expected to cost about R14 per watt. Apparently they are now ready for commercial use.</p>
+<p>There is even better news coming. Technological improvements may soon make solar generation of R1 per watt possible &#8211; much more attractive than coal.</p>
+<h2>How Many Solar Panels Do I Need To Power My Home?</h2>
+<p>This depends on climate, electrical usage, roof angle, shading problems and solar panel electricity output.</p>
+<p>To obtain an approximate answer multiply your average daily kWh usage by 0.25 to get the solar array in kilowatts needed. You then need to install the number of solar panels that will generate at least this number of kilowatts.</p>
+<p>If you want to be independent of the power grid during the whole year you will need to use your winter electrical usage to calculate your kilowatts and take into account the lower power output of the solar panels during winter.</p>
+<h2>Jobs In The Solar Industry</h2>
+<ol>
+<li>
+<h3>General Comment About Jobs In The Solar industry</h3>
+<p>Whether you want to change the world or are looking for a career in an industry that’s only going to get bigger, solar may be for you. To find a job in solar, you need to decide what sector of the industry you want to work in, what type of company you want to work at, and what skills you bring to the table.</p>
+<p>Many manufacturing companies in the solar industry are at an early stage in their development, and therefore need to create or expand their engineering and product development team with employees that have technical skills. Later on they will need sales, and marketing teams.</p>
+<p>Installation companies need people with construction experience, especially as roofers and electricians to do their sola panel installations.</p>
+<p>Young solar panel installers will have an easier time breaking in to the solar industry than career changers who would either need to show that their skills will translate to the solar industry or do courses in solar technology. As the industry grows, opportunities will grow with it, so you might consider educating yourself now for the future opportunities. Learn as much as you can about the industry through information interviews and reading industry publications.</p>
+<p>During an interview it helps if you walk in with a set of informed questions and can say what benefit you will bring to the company you are seeking employment at.</p>
+<p>Photovoltaics, a solar technology in which the U.S. is currently the world&#8217;s leader, is now being used in over 175,000 villages worldwide, producing thousands of jobs, and creating sustainable economic opportunity in over 140 countries worldwide.</p>
+<p>Using energy conservation and solar energy could create four times more jobs in the local economy than using oil, natural gas, or electricity for energy needs.</p>
+<p>The growth of solar industries result in the creation of jobs in diverse areas such as glass and steel manufacturing, electrical and plumbing contracting, architecture and system design, battery and electrical equipment.</p>
+<p>Solar thermal power plants create 2.5 times as many skilled, high paying jobs for the communities in which they operate as do conventional power plants that use fossil fuels.</p>
+<p>The solar industry in the United States has been expanding at a rate of about 30% per year for the last fifteen years and the industry is expected to continue to expand rapidly. South Africa usually follows the US trends.</p>
+<p>Primary job growth sectors in the photovoltaic industry are expected to include manufacturing, installation, and research, as well as management of large-scale commercial and utility installations. A smaller number of jobs are expected to be created in areas such as sales, public relations, human resources, and other industries that support solar energy companies.</p>
+<h5>People with the following backgrounds are likely to be in high demand:</h5>
+<ul>
+<li>business</li>
+<li>computer science</li>
+<li>construction</li>
+<li>electrical engineering</li>
+<li>engineering</li>
+<li>mathematics</li>
+</ul>
+<p>A growing number of colleges and universities are offering degree or certificate courses relating to solar energy.</li>
+<li>
+<h3>Examples Of Jobs In The Solar industry</h3>
+<ol>
+<li>
+<h4>Solar Photovoltaic Design Engineer Updated August 22, 2011</h4>
+<p>Our client, Gestamp Solar, is a European renewable energy business who are looking to open an office in South Africa to facilitate their worldwide growth.</p>
+<h5>Role description</h5>
+<p>This is a hugely exciting opportunity to join a successful, growing and dynamic organisation at a grass-roots level and experience the successful launch of an exciting international business.</p>
+<p>Applicants with a commercial profile and a specialism in technical development are ideally suited.</p>
+<p>Working with the Head of South African Business, you will be responsible for generating and delivering projects from inception, through design, to completion. Although the client operates with a fairly broad profile in terms of renewables, this role requires specialist knowledge in solar photovoltaic systems. You will be delivering projects, but also be expected to immerse yourself in the renewables industry maintaining regular contact with the electrical regulators, distribution companies and authorities. In addition you will have the opportunity to work on the development of the licence process for construction of a PV Generating plant as part of the exciting IRP plan in SA. The IRP allocates a staggering 8,400 MW of solar PV to be built by 2030, rolling out 300MW per year of large scale PV from 2012 onward. This renders SA a potential solar goldmine at a time when the largest PV markets in Europe are becoming more saturated.</p>
+<p>South Africa is in a prime position to become a key global in the solar PV market. Able to learn from the progress/mistakes of European businesses and take advantage of rapidly decreasing global prices, the PV solar market in SA is an exciting place to be in 2011/2012.</p>
+<p>We are looking to attract a range of candidates, from fairly junior (minimum of 3 years experience) to senior, as the business is poised for effective growth in the next few years. If you have experience in this space and are interested in pursuing high growth opportunities in SA please get in touch.</p>
+<h5>Who we&#8217;re looking for:</h5>
+<ul>
+<li>Degree level qualification in a technical degree.</li>
+<li>Previous operational experience at a senior, operational level.</li>
+<li>Proven specialisation in solar photovoltaic systems.</li>
+<li>Must be able to travel.</li>
+</ul>
+<p>Commercial profile, mixed with technical development skills around solar photovoltaic technologies</p>
+<h5>About our client</h5>
+<p>Gestamp Solar is part of a European multinational leader in Steel Services, Automotive Components and Renewable clean energy &#8211; Corporacion Gestamp. Founded in 1958, the corporation is stable, growing and a market leader in several areas of industry. Gestamp Solar participated in the development of over 300MW photovoltaic solar facilities to date. The turnover was EUR240m with an EBITDA of 18.2% and they operate with a portfolio of projects including ?550m in U.S., Italy, Spain, France, India and now South Africa. Gestamp Solar are a business widely respected due to their vision of consistently applying good practise and keeping quality of delivery at the forefront of their offering.</p>
+<h5>What&#8217;s on offer</h5>
+<p>Excellent package, superb and exciting role in one of the most beautiful and lively cities in the world.</p>
+<h5>Michael Page Contact</h5>
+<p>For further info, apply or phone on 0113038338. Job Ref: DJ5774<br />
+Your application will be sent to David Jennison.</li>
+<li>
+<h4>External Sales Consultant</h4>
+<p>EE: This position is open for all candidates to apply.<br />
+Salary: R125 000 to R130 000 CTC PA<br />
+Location: Johannesburg</p>
+<p>An outstanding company in the solar and energy environment is looking for a External Sales Consultant. Your exceptional flair for technical sales coupled to a minimum of 3 years sales experience in the construction, plumbing, energy or building environment are required. Your responsibilities will include to meet and exceed sales targets, visit clients at home or work, do presentations to committee members and to source your own leads.</p>
+<p>The solar and alternative energy business is booming in South Africa, become part the revolution.</p>
+<p>This position requires you to sell solar systems to Commercial and Property Developers, Estates and Domestic Markets. You should have the ability to specify and detail your product to architects, quantity surveyors and contractors.</p>
+<h5>You must have:</h5>
+<ul>
+<li>A matric certificate or Sales Diploma.</li>
+<li>A minimum of 3 years related sales experience in a Construction, Plumbing, Energy or the Building Environment.</li>
+<li>The ability to grasp and understand technical aspects of solar water heating systems.</li>
+</ul>
+<p>Experience in the solar industry will be an advantage.</p>
+<h5>You will be required to:</h5>
+<ul>
+<li>Meet and exceed sales targets.</li>
+<li>Submit weekly reports to management.</li>
+<li>Visit clients at home or work.</li>
+<li>Canvas and source your own leads.</li>
+<li>Share accurate information with customers on our products.</li>
+<li>Get into domestic home ceilings or on top of clients roofs with the aid of a ladder.</li>
+</ul>
+<p>Qualification Required: Matric or Sales Diploma<br />
+Reference Number: 46602<br />
+Consultant: Nicolaas Kleynhans (012) 345 9200</li>
+<li>
+<h4>Sales reps</h4>
+<p>R12,000 &#8211; R15,000 Per Month Basic Plus Commission<br />
+Permanent skilled level position in Gauteng in South Africa (Gauteng).</p>
+<p>Posted by The Job Box on 17/08/2011 Ref # CJ Ref# 1289645 Tags Gauteng, Gauteng, Any Sector<br />
+Sales Reps<br />
+1 x Sandton R12000 + comm.<br />
+Own Car<br />
+Repping exp in technical enviroment &#8211; solar knowledge an adv<br />
+English and Afrikaans spoken<br />
+1 x Edenvale R15000 + comm.<br />
+Own Car<br />
+Strong sales skills in services industry/transport industry.<br />
+1 x Cape Parrow area<br />
+Own Car<br />
+R12500 + comm\<br />
+Solid working history in Sales repping new business in Technical environment.</li>
+</ol>
+</li>
+</ol>
+<h2>DIY Solar Panels</h2>
+<p>With some know-how and little hard work you can build and install solar panels yourself.<br />
+Commercial solar power systems can cost a lot and it may take years for you to recover the cost, so why not have a go at building your own solar panels. This is now attainable and more realistic than ever before.</p>
+<p>If you are trying to save money and you are willing to spend of your free time in building something you want to call your own, then solar DIY panels are worth your time. You will need some knowledge and spare time. Have some fun learning and building your very own solar panels.</p>
+<p>You can build and install one panel so that it can start paying for itself, then build more later.<br />
+The secret to succeed with your homemade solar panels is to look for a good design guide to help you with a step-by-step procedure.</p>
+<p>There is some misleading information out there, so it is imperative to do painstaking research to find quality designs and manuals.</p>
+<p>It might be best to get word-of-mouth feedback from people who have successfully built their own solar panels. Look for people who are willing to share their experiences with you and will give some pointers on how to do it right.</p>
+<h2>Why Has Solar Energy Not Yet Taken Off In South Africa?</h2>
+<p>The main reason for solar energy technology not taking off in South Africa is the fact that Eskom provides us with cheap conventional unsustainable electricity, when compared with the rest of the world.</p>
+<p>Because we have not yet reached economies of scale in South Africa, the price of solar panels has not significantly decreased here as it has in more technologically advanced and environmentally aware countries.</p>
+<p>Photovoltaic panels are to date just not cost effective enough for manufacturers to justify converting from conventional electricity. However with the current high annual Eskom tariff increases combined with reducing photovoltaic production costs, the tide will soon turn.</p>
+<h2>Future Developments</h2>
+<p>It would encourage the installation of solar panels if Eskom would allow you, as a home owner, to install a grid tied solar power system so that power in excess of your needs could be sold to Eskom. This would be a win-win situation because it would reduce the strain on Eskom’s limited resources and provide you with extra income.</p>
+<p>With the amount of sunshine South Africa basks in, there really is no excuse for the government not pushing solar panels more aggressively.</p>
+<p>Eskom is building a multi-million dollar solar plant near Upington in the Northern Cape.<br />
+Solar power has been mostly neglected in an economy where 90% of power is generated by coal.<br />
+The main drawback to solar energy has been its cost, which is about R22 per watt. In contrast, coal-fired electricity costs about R10 per watt.</p>
+<p>South Africa Professor Vivian Alberts, a physicist at the University of Johannesburg, has developed solar panels that are expected to cost about R14 per watt. Apparently they are now ready for commercial use.</p>
+<p>There is even better news coming. Technological improvements may soon make solar generation of R1 per watt possible. Will this bring about the demise of coal-fired power stations?</p>
+<p>So with the ever-improving technology, South Africa would be foolish not to invest in such an abundant natural resource.</p>
+<h2>Terminology</h2>
+<p>For definitions and terminology see the <a href="https://web.archive.org/web/20160410140415/https://benjanow.github.io/SolarHomes/solar-power-glossary">Solar Power Glossary</a>.</p>
+<span>]]></content:encoded>
+			</item>
+		<item>
+		<title>Solar Chargers</title>
+		<link>https://benjanow.github.io/SolarHomes/solar-chargers/</link>
+		<pubDate>Mon, 13 Nov 2017 17:08:18 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[More:]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/?page_id=106</guid>
+		<description><![CDATA[<p class="excerpt"><span itemprop="description">Battery and Phone Chargers: What You Can Use Solar Power For Solar chargers convert the sun&#8217;s energy into DC current in order to charge batteries.  They can be mounted to a fixed structure or portable.  When mounted to a fixed structure they are generally referred&#8230;</span></p><p class="more-link-p btn-align-left"><a class="blue zoom-btn" href="https://benjanow.github.io/SolarHomes/solar-chargers/">Read More</a></p>]]></description>
+				<content:encoded><![CDATA[<span itemprop="description"><h1 class="contentheading"><a class="contentpagetitle" href="https://web.archive.org/web/20160410195939/https://benjanow.github.io/SolarHomes/solar-battery-and-phone-chargers"> Battery and Phone Chargers: What You Can Use Solar Power For</a></h1>
+<p>Solar chargers convert the sun&#8217;s energy into DC current in order to charge batteries.  They can be mounted to a fixed structure or portable.  When mounted to a fixed structure they are generally referred to as <a href="https://web.archive.org/web/20160410195939/https://benjanow.github.io/SolarHomes/solar-panels" target="_blank" rel="noopener">solar panels</a>, and they are often connected to the electricity grid so they can supply electricity to the grid when there is too much to use immediately or store in the batteries they are connected to.  However, portable solar chargers are not connected to the grid and are used solely for charging batteries or devices such as cell phones and laptops.  They can usually be used even in low light conditions (although the charge rate will usually be slower), and are becoming increasingly popular for providing back-up and emergency power when travelling, camping  or on the road.  They are generally trickle chargers, which means that they charge batteries slowly and the risk of overcharging (which causes damage) is small.</p>
+<p><img src="https://web.archive.org/web/20160410195939im_/https://benjanow.github.io/SolarHomes/images/making-solar-battery-chargers.jpg" alt="How to make a solar battery charger" /><img src="https://web.archive.org/web/20160410195939im_/https://benjanow.github.io/SolarHomes/images/portable-solar-battery-charger.jpg" alt="Hand held solar battery charger" />It is fairly easy to make one&#8217;s own solar chargers, and instructions for how to make a battery charger (pictured left) can be found in this <a href="https://web.archive.org/web/20160410195939/http://www.instructables.com/id/Solar-Battery-Charging/" target="_blank" rel="noopener">solar battery charging guide</a>, with more information on <a href="https://web.archive.org/web/20160410195939/http://www.ehow.com/way_5244311_homemade-solar-powered-battery-charger.html" target="_blank" rel="noopener">making a range of types of chargers available here</a>.  However, for those solar power users wanting a more elegant and easily portable solution, such as that shown to the right, there is a wide range of ready-made solar chargers available online.</p>
+<p>Portable solar chargers have been developed for a range of applications and devices, from charging car and boat batteries to keeping laptops and cell phones operational while away from grid electricity.  However, it should be noted that the smaller wattage chargers, which are generally smaller in size, charge batteries more slowly than the larger and more expensive chargers, so when buying a charger it is advisable to work out the best compromise of price, size and charge speed for your requirements.  Another factor to consider is whether the charger contains batteries of its own or not.  If it does, it will charge up those batteries and can then be used at any time to charge your device, but if it doesn&#8217;t contain batteries, it can only be used when there is sufficient sunlight.</p>
+<p>There are many online suppliers in South Africa, such as <a href="https://web.archive.org/web/20160410195939/http://sustainable.co.za/" target="_blank" rel="noopener">Sustainable.co.za</a>, <a href="https://web.archive.org/web/20160410195939/http://www.thegreenshop.co.za/c2/Mobile-Chargers.aspx" target="_blank" rel="noopener">the green shop</a> and those listed <a href="https://web.archive.org/web/20160410195939/http://www.alibaba.com/countrysearch/ZA/solar-charger.html" target="_blank" rel="noopener">here</a>.  Some are specific to particular devices, while others, such as the one sold by <a href="https://web.archive.org/web/20160410195939/http://www.iwarehouse.co.za/power-solutions/solar-kits/flexcell-sunpack-7w-solar-charger" target="_blank" rel="noopener">iwarehouse.co.za</a>, come with a range of connectors for different devices.  Some are rigid and others are flexible, and the smaller chargers can be attached to backpacks for charging while hiking, or placed on the dashboard of a car or anywhere that receives direct sunlight.  It is even possible to buy a <a href="https://web.archive.org/web/20160410195939/http://www.sustainable.co.za/powertraveller-uvmonkey-solar-battery-chargers.html" target="_blank" rel="noopener">gadget</a> which measures the intensity of the light and tells you how good the conditions are for charging.  Prices range from as little as two or three hundred rand for the smallest chargers, up to several thousand rand for the bigger ones.</p>
+<p><img src="https://web.archive.org/web/20160410195939im_/https://benjanow.github.io/SolarHomes/images/Flexcell-Sunpack-7W-Solar-charger.jpg" alt="Flexible thinfilm solar panel" /> <img src="https://web.archive.org/web/20160410195939im_/https://benjanow.github.io/SolarHomes/images/solar-battery-charger.jpg" alt="Solar Chargers" /> <a href="https://web.archive.org/web/20160410195939/http://etrader.kalahari.com/referral.asp?linkid=5&amp;partnerid=12065&amp;sku=38266726" target="_blank" rel="nofollow noopener"><img src="https://web.archive.org/web/20160410195939im_/https://benjanow.github.io/SolarHomes/images/portable-solar-charger-for-cellphones.jpg" alt="Solar Charger - Fits multiple devices" /></a> <img src="https://web.archive.org/web/20160410195939im_/https://benjanow.github.io/SolarHomes/images/Solar%E2%80%91Charger%E2%80%91ZYM%E2%80%910804.jpg" alt="Solar Gorilla" /> <a href="https://web.archive.org/web/20160410195939/http://etrader.kalahari.com/referral.asp?linkid=5&amp;partnerid=12065&amp;sku=38266726" target="_blank" rel="nofollow noopener"><img src="https://web.archive.org/web/20160410195939im_/https://benjanow.github.io/SolarHomes/images/solar-charger.jpg" alt="Solar Gorilla" /></a></p>
+<p>&nbsp;</p>
+<p>Other sources and useful links:</p>
+<p>Wikipedia: <a href="https://web.archive.org/web/20160410195939/http://en.wikipedia.org/wiki/Battery_charger" target="_blank" rel="noopener">http://en.wikipedia.org/wiki/Battery_charger</a></p>
+<p>Solar Phone Charger Blog: <a href="https://web.archive.org/web/20160410195939/http://www.solarphonechargerblog.com/" target="_blank" rel="noopener">http://www.solarphonechargerblog.com/</a></p>
+<p>&nbsp;</p>
+<span>]]></content:encoded>
+			</item>
+		<item>
+		<title>Solar Companies</title>
+		<link>https://benjanow.github.io/SolarHomes/solar-companies__trashed/</link>
+		<pubDate>Sat, 12 Nov 2016 16:59:11 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[More:]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/?page_id=82</guid>
+		<description><![CDATA[<p class="excerpt"><span itemprop="description">Solar Power Companies Search Add Entry altEnergy Robertson Website Sustainable Cape Town Website KG Electric Johannesburg Website Sinetech Johannesburg Website Dako Power SA, Nigeria Website Solar Energy Directory n/a Website GW Store Central Gauteng Website TBV Solar Bronkhorstspruit Website Setsolar Cape Town Website Total Solar&#8230;</span></p><p class="more-link-p btn-align-left"><a class="blue zoom-btn" href="https://benjanow.github.io/SolarHomes/solar-companies__trashed/">Read More</a></p>]]></description>
+				<content:encoded><![CDATA[<span itemprop="description"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2611628246612944",
+    enable_page_level_ads: true
+  });
+</script></p>
+<div class="componentheading">Solar Power Companies</div>
+<div class="sobi2">
+<table class="sobi2Header">
+<tbody>
+<tr>
+<td id="sobi2HeaderSearchLink"><a class="sobi2Header" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/search">Search</a></td>
+<td id="sobi2HeaderAddLink"><a class="sobi2Header" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/new-solar-company">Add Entry</a></td>
+</tr>
+</tbody>
+</table>
+<table class="sobi2CompDesc">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table id="sobi2CatListSymbols">
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table class="sobi2Listing" style="height: 2708px;" width="610">
+<tbody>
+<tr>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/western-cape/altenergy"><img class="alignright" title="altEnergy" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/1_ico.gif" alt="altEnergy" /></a></p>
+<p class="sobi2ItemTitle"><a title="altEnergy" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/western-cape/altenergy">altEnergy</a></p>
+<p><span class="sobi2Listing_field_city">Robertson</span><br />
+<span class="sobi2Listing_field_website"><a title="altEnergy" href="https://web.archive.org/web/20160410135206/http://altenergy.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/western-cape/sustainable"><img class="alignright" title="Sustainable" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/3_ico.gif" alt="Sustainable" /></a></p>
+<p class="sobi2ItemTitle"><a title="Sustainable" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/western-cape/sustainable">Sustainable</a></p>
+<p><span class="sobi2Listing_field_city">Cape Town</span><br />
+<span class="sobi2Listing_field_website"><a title="Sustainable" href="https://web.archive.org/web/20160410135206/http://www.sustainable.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/kg-electric"><img class="alignright" title="KG Electric" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/4_ico.jpg" alt="KG Electric" /></a></p>
+<p class="sobi2ItemTitle"><a title="KG Electric" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/kg-electric">KG Electric</a></p>
+<p><span class="sobi2Listing_field_city">Johannesburg</span><br />
+<span class="sobi2Listing_field_website"><a title="KG Electric" href="https://web.archive.org/web/20160410135206/http://www.kgelectric.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/sinetech"><img class="alignright" title="Sinetech" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/5_ico.gif" alt="Sinetech" /></a></p>
+<p class="sobi2ItemTitle"><a title="Sinetech" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/sinetech">Sinetech</a></p>
+<p><span class="sobi2Listing_field_city">Johannesburg</span><br />
+<span class="sobi2Listing_field_website"><a title="Sinetech" href="https://web.archive.org/web/20160410135206/http://sinetech.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/dako-power"><img class="alignright" title="Dako Power" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/7_ico.png" alt="Dako Power" /></a></p>
+<p class="sobi2ItemTitle"><a title="Dako Power" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/dako-power">Dako Power</a></p>
+<p><span class="sobi2Listing_field_city">SA, Nigeria</span><br />
+<span class="sobi2Listing_field_website"><a title="Dako Power" href="https://web.archive.org/web/20160410135206/http://www.dako.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/outside-south-africa/solar-energy-directory"><img class="alignright" title="Solar Energy Directory" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/8_ico.jpg" alt="Solar Energy Directory" /></a></p>
+<p class="sobi2ItemTitle"><a title="Solar Energy Directory" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/outside-south-africa/solar-energy-directory">Solar Energy Directory</a></p>
+<p><span class="sobi2Listing_field_city">n/a</span><br />
+<span class="sobi2Listing_field_website"><a title="Solar Energy Directory" href="https://web.archive.org/web/20160410135206/http://solarenergydirectory.com/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/gw-store-central"><img class="alignright" title="GW Store Central" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/10_ico.jpg" alt="GW Store Central" /></a></p>
+<p class="sobi2ItemTitle"><a title="GW Store Central" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/gw-store-central">GW Store Central</a></p>
+<p><span class="sobi2Listing_field_city">Gauteng</span><br />
+<span class="sobi2Listing_field_website"><a title="GW Store Central" href="https://web.archive.org/web/20160410135206/http://www.gwstore.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/tbv-solar"><img class="alignright" title="TBV Solar" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/13_ico.jpg" alt="TBV Solar" /></a></p>
+<p class="sobi2ItemTitle"><a title="TBV Solar" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/tbv-solar">TBV Solar</a></p>
+<p><span class="sobi2Listing_field_city">Bronkhorstspruit</span><br />
+<span class="sobi2Listing_field_website"><a title="TBV Solar" href="https://web.archive.org/web/20160410135206/http://www.tbvsolar.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/western-cape/setsolar"><img class="alignright" title="Setsolar" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/15_ico.gif" alt="Setsolar" /></a></p>
+<p class="sobi2ItemTitle"><a title="Setsolar" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/western-cape/setsolar">Setsolar</a></p>
+<p><span class="sobi2Listing_field_city">Cape Town</span><br />
+<span class="sobi2Listing_field_website"><a title="Setsolar" href="https://web.archive.org/web/20160410135206/http://www.setsolar.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/limpopo/total-solar"><img class="alignright" title="Total Solar" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/17_ico.jpg" alt="Total Solar" /></a></p>
+<p class="sobi2ItemTitle"><a title="Total Solar" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/limpopo/total-solar">Total Solar</a></p>
+<p><span class="sobi2Listing_field_city">Polokwane</span><br />
+<span class="sobi2Listing_field_website"><a title="Total Solar" href="https://web.archive.org/web/20160410135206/http://www.totalsolar.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/solartotal"><img class="alignright" title="SolarTotal" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/19_ico.jpg" alt="SolarTotal" /></a></p>
+<p class="sobi2ItemTitle"><a title="SolarTotal" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/solartotal">SolarTotal</a></p>
+<p><span class="sobi2Listing_field_city">National</span><br />
+<span class="sobi2Listing_field_website"><a title="SolarTotal" href="https://web.archive.org/web/20160410135206/http://www.solartotal.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/nrg-technologies"><img class="alignright" title="NRG Technologies" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/20_ico.jpg" alt="NRG Technologies" /></a></p>
+<p class="sobi2ItemTitle"><a title="NRG Technologies" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/nrg-technologies">NRG Technologies</a></p>
+<p><span class="sobi2Listing_field_city">Centurion</span><br />
+<span class="sobi2Listing_field_website"><a title="NRG Technologies" href="https://web.archive.org/web/20160410135206/http://www.nrgtechnologies.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/western-cape/omnisolar"><img class="alignright" title="Omnisolar" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/21_ico.gif" alt="Omnisolar" /></a></p>
+<p class="sobi2ItemTitle"><a title="Omnisolar" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/western-cape/omnisolar">Omnisolar</a></p>
+<p><span class="sobi2Listing_field_city">George</span><br />
+<span class="sobi2Listing_field_website"><a title="Omnisolar" href="https://web.archive.org/web/20160410135206/http://www.omnisolar.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<p class="sobi2ItemTitle"><a title="Solar Man" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/solar-man">Solar Man</a></p>
+<p><span class="sobi2Listing_field_city">Pretoria</span><br />
+<span class="sobi2Listing_field_website"><a title="Solar Man" href="https://web.archive.org/web/20160410135206/http://www.solarm.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/flexopower-energies"><img class="alignright" title="Flexopower Energies" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/23_ico.jpg" alt="Flexopower Energies" /></a></p>
+<p class="sobi2ItemTitle"><a title="Flexopower Energies" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/flexopower-energies">Flexopower Energies</a></p>
+<p><span class="sobi2Listing_field_city">Johannesburg</span><br />
+<span class="sobi2Listing_field_website"><a title="Flexopower Energies" href="https://web.archive.org/web/20160410135206/http://www.flexopower.com/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/western-cape/gwstore-mosselbay"><img class="alignright" title="GWstore Mosselbay" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/24_ico.jpg" alt="GWstore Mosselbay" /></a></p>
+<p class="sobi2ItemTitle"><a title="GWstore Mosselbay" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/western-cape/gwstore-mosselbay">GWstore Mosselbay</a></p>
+<p><span class="sobi2Listing_field_city">Mossel Bay</span><br />
+<span class="sobi2Listing_field_website"><a title="GWstore Mosselbay" href="https://web.archive.org/web/20160410135206/http://www.gwstore.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<p class="sobi2ItemTitle"><a title="Sangle Solar" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/sangle-solar">Sangle Solar</a></p>
+<p><span class="sobi2Listing_field_city">Midrand</span><br />
+<span class="sobi2Listing_field_website"><a title="Sangle Solar" href="https://web.archive.org/web/20160410135206/http://www.sl-solar.com/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/outside-south-africa/northern-light-energy"><img class="alignright" title="Northern Light Energy" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/27_ico.jpg" alt="Northern Light Energy" /></a></p>
+<p class="sobi2ItemTitle"><a title="Northern Light Energy" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/outside-south-africa/northern-light-energy">Northern Light Energy</a></p>
+<p><span class="sobi2Listing_field_city">Xuzhou China</span><br />
+<span class="sobi2Listing_field_website"><a title="Northern Light Energy" href="https://web.archive.org/web/20160410135206/http://www.china-solar-lighting.com/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/mpumalanga/power-and-energy-solutions"><img class="alignright" title="Power &amp; Energy Solutions" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/29_ico.jpg" alt="Power &amp; Energy Solutions" /></a></p>
+<p class="sobi2ItemTitle"><a title="Power &amp; Energy Solutions" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/mpumalanga/power-and-energy-solutions">Power &amp; Energy Solutions</a></p>
+<p><span class="sobi2Listing_field_city">White River</span><br />
+<span class="sobi2Listing_field_website"><a title="Power &amp; Energy Solutions" href="https://web.archive.org/web/20160410135206/http://www.powerenergy.co.za/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><a href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/karl-chifokoyo"><img class="alignright" title="IYA Logistics" src="https://web.archive.org/web/20160410135206im_/https://benjanow.github.io/SolarHomes/images/com_sobi2/clients/30_ico.jpg" alt="IYA Logistics" /></a></p>
+<p class="sobi2ItemTitle"><a title="IYA Logistics" href="https://web.archive.org/web/20160410135206/https://benjanow.github.io/SolarHomes/solar-power-companies/gauteng/karl-chifokoyo">IYA Logistics</a></p>
+<p><span class="sobi2Listing_field_city">Johannesburg</span><br />
+<span class="sobi2Listing_field_website"><a title="IYA Logistics" href="https://web.archive.org/web/20160410135206/http://www.kttlogistics.com/" target="_blank" rel="noopener">Website</a></span></p>
+<table class="sobi2Listing_plugins">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<span>]]></content:encoded>
+			</item>
+	</channel>
+</rss>
