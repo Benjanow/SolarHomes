@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Solar Homes
 
-You can use the [editor on GitHub](https://github.com/Benjanow/SolarHomes/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
+If you want to be real lani. glikeb
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
